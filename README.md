@@ -8,4 +8,6 @@ Python implementations of a few Bayesian inference models in the Rational Speech
 
 ## TODO:
 
++ Visualizations
+
 + Clean up the implementation of the lexical uncertainty model used to capture the Jespersen's cycle of negation that I originally implemented in WebPPL (which is [here](https://github.com/gunnarnl/negative-cycle)).
